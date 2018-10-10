@@ -1,2 +1,2 @@
 # EasyConnectForLinux
-Linux
+Linux上使用Java方式连接EasyConnect需要的旧版应用安装包
